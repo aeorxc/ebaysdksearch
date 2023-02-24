@@ -21,7 +21,7 @@ setuptools.setup(
         "requests",
         "python-dotenv",
     ],
-    python_requires=">=3.10",
+    python_requires=">=3.9",
     setup_requires=["pytest-runner"],
     tests_require=["pytest"],
 )
