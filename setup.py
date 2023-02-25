@@ -20,6 +20,7 @@ setuptools.setup(
         "ebaysdk",
         "requests",
         "python-dotenv",
+        "cachetools",
     ],
     python_requires=">=3.9",
     setup_requires=["pytest-runner"],
